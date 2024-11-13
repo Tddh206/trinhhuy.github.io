@@ -1,0 +1,32 @@
+body {
+    font-family: "Times New Roman";
+    background-color: wheat;
+    margin: 50px;
+    padding: 40px;
+}
+
+#header1 {
+    background-color: wheat;
+    color: rgb(139, 0, 30);
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(186, 230, 173);
+}
+
+ul {
+    list-style: none;
+    padding: 15px;
+}
+
+.box {
+    background-color: pink;
+    padding: 10px;
+    border: 1px solid white;
+    font-style: italic;
+    font-weight: bold;
+}
